@@ -1,3 +1,3 @@
 # to-so-list
-practicing angular
-make a todo list using HTML, JS, CSS, and TS.
+Project to practice angular.
+Make a todo list using HTML, JS, CSS, and TS.
